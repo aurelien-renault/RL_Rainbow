@@ -12,5 +12,5 @@ This project have been done in collaboration by [Ikhlass Yaya-Oyé](https://gith
 ## You will find in this repositery : 
 * A [LaTeX report of our study](https://github.com/ikhlo/RL_Rainbow/blob/main/ALTEGRAD_Report.pdf)
 * The [test video of each agent](https://github.com/ikhlo/RL_Rainbow/tree/main/videos)
-* The [algorithms implementation](https://github.com/ikhlo/LinkPrediction_Kaggle/tree/main/algos)
+* The [algorithms implementation](https://github.com/ikhlo/RL_Rainbow/tree/main/algos)
 <br> 
